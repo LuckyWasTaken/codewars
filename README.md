@@ -1,0 +1,3 @@
+# Codewars
+
+Naming: [kuy]-[name]
