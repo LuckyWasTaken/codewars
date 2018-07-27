@@ -6,5 +6,5 @@ var decodeMorse = function (morseCode){
         return word.split(" ")
             .map((morse) => MORSE_CODE[morse])
             .join("");
-    }).join(" ");
+    }).join(" ").trim();;
 }

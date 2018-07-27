@@ -12,3 +12,5 @@ var decodeMorse = function (morseCode){
             .join("");
     }).join(" ");
 };
+
+//Not passing some tests atm
